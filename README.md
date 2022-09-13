@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junoh%20Kim&fontSize=90)
-<center>
-📫Email
-wnshrla@gmail.com
+<div aline="center">
+📫Email</br>
+wnshrla@gmail.com</br>
 
-😄안녕하세요, 능동적인 개발자를 지향하는 김주노입니다.😄
+😄안녕하세요, 능동적인 개발자를 지향하는 김주노입니다.😄</br>
 ### 🔨used as the main
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -27,4 +27,4 @@ wnshrla@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawnsh&show_icons=true&theme=radical)
-</center>
+</div>
